@@ -19,7 +19,7 @@ public class Kata2{
             } 
         }
         for(Integer key : histogram.keySet()){
-            System.out.println(key + "==> " + histogram.get(key));
+            System.out.println(key + " ==> " + histogram.get(key));
         }
     }
 }
